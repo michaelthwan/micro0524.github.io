@@ -1,8 +1,8 @@
-name: "my-blog"
-title: "My Blog"
+name: "MW's blog"
+title: "MW's Blog"
 description: |
-  My Blog
-output_dir: "_site"
+  MW's Blog
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
